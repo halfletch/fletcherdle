@@ -116,7 +116,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           target="_blank"
           className="underline font-bold"
         >
-          Youtube channel
+          YouTube channel
         </a>
         . Visit her{' '}
         <a 
