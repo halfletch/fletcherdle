@@ -143370,5 +143370,6 @@ export const VALID_GUESSES = [
   'devine',
   'lockwood',
   'fletchy',
-  'santa'
+  'santa',
+  'tiktok',
 ]
