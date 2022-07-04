@@ -135,7 +135,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         </a>
         , and buy her{' '}
         <a 
-          href="https://fletchermerch.com/" 
+          href="https://shop.findingfletcher.com/" 
           target="_blank"
           className="underline font-bold"
         >
