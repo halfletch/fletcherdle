@@ -143378,5 +143378,6 @@ export const VALID_GUESSES = [
   'blythe',
   'scokin',
   'becky',
-  'bella'
+  'bella',
+  'thorne'
 ]
