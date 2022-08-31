@@ -11,8 +11,7 @@ export const WORDS = [
   'girls',
   'sharks',
   'ruined',
-  'niall', 
-  'hangout',
+  'niall',
   'boobs',
   'laurence',
   'gflip',
@@ -68,8 +67,7 @@ export const WORDS = [
   'voice',
   'song', 
   'daniel', 
-  'cowell',
-  'about', 
+  'cowell', 
   'setlist',
   'daddy',
   'boobies',
@@ -79,7 +77,6 @@ export const WORDS = [
   'festival',
   'jersey', 
   'kiyoko', 
-  'apart',
   'bonnaroo',
   'lover', 
   'nicholas', 
@@ -94,8 +91,5 @@ export const WORDS = [
   'laugh',
   'andress',
   'tiddies',
-  'tour', 
-  'fletch', 
-  'trevor',
-  'playlist'
+  'tour'
 ]
