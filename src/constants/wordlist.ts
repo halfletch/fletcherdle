@@ -1,10 +1,10 @@
 export const WORDS = [
   'sophie',
   'bitter',
-  'bella',
+  'kelsea',
   'vinyl',
   'dinah',
-  'kelsea',
+  'bella',
   'cassette',
   'sting',
   'pisces',
