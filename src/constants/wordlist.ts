@@ -20,7 +20,7 @@ export const WORDS = [
   'gflip',
   'rogue',
   'noreen',
-  'better',
+  'riot',
   'simon',
   'forever',
   'guess',
