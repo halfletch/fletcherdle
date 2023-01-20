@@ -143379,5 +143379,19 @@ export const VALID_GUESSES = [
   'scokin',
   'becky',
   'bella',
-  'thorne'
+  'thorne',
+  'fuckboy',
+  'muna',
+  'detiger',
+  'miley',
+  'cyrus',
+  'jojo',
+  'siwa',
+  'mosca',
+  'alissa',
+  'avery',
+  'prew',
+  'rylin',
+  'leztopia',
+  'ratsula'
 ]
