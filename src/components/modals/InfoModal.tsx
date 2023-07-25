@@ -70,14 +70,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <p className="text-sm text-gray-500 dark:text-gray-300 mt-4">
-        <a
-          href="https://fletcher.lnk.to/GirlOfMyDreams"
-          target=" blank"
-          className="underline font-bold"
-        >
-          Pre-save/pre-order
-        </a>
-        {' '} FLETCHER's debut album, Girl Of My Dreams, coming September 16! Stream her music -{' '}
+        Stream FLETCHER's music -{' '}
         <a 
           href="https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
           target="_blank"
